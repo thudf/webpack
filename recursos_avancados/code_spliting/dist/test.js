@@ -1,0 +1,1 @@
+(self.webpackChunkcode_spliting=self.webpackChunkcode_spliting||[]).push([[43],{4:(e,l,s)=>{var a=s(486);console.log(a.isEqual([1,"a",{key:1,label:"teste"}],[1,"a",{key:1,label:"teste"}])),console.log("test")}},e=>{e(e.s=4)}]);

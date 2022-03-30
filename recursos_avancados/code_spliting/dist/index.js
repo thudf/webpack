@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_spliting=self.webpackChunkcode_spliting||[]).push([[826],{397:(e,o,s)=>{var n=s(486),c=s(755);console.log(n.difference([1,2,3],[1,4,5])),console.log(n.lastIndexOf([1,2,3,2,1,2,1],2)),console.log("print");const l=c("body"),t=c("<p></p>").text("Inserindo texto").css("color","red");l.append(t)}},e=>{e(e.s=397)}]);

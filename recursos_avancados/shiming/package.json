@@ -1,0 +1,14 @@
+{
+  "name": "shiming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
