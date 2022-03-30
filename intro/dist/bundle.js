@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=o=>{console.log(o)};console.log("teste 2"),o("Arthur"),o("Debora")})();
